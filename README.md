@@ -1,8 +1,8 @@
 # learning_docker
 
-# Docker tutorial
+### Docker tutorial
 
-## Docker Flow
+#### **Docker Flow**
 
 **Docker image:** is every file that makes up just enough of the OS to do what you need to do. Slim down version of an OS. The docker run command takes an image and turns it into a container with a process in it that is doing something. 
 
